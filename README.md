@@ -1,2 +1,2 @@
-# asimov_academy
+# Asimov Academy
 Repositório de projetos da Asimov Academy
